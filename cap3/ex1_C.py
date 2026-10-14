@@ -9,3 +9,4 @@ try:
     print(f"Grupo de números trianguláres ate {n}: {tri}")
 except ValueError:
     print("Erro! O valor inserido deve ser um número inteiro")
+    

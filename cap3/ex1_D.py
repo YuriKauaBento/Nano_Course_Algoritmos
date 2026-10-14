@@ -11,3 +11,4 @@ try:
             break
 except ValueError:
     print("Erro! O valor inserido deve ser um número inteiro!")
+    

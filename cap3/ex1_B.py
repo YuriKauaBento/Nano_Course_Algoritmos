@@ -8,3 +8,4 @@ try:
     print(f"O fatorial de {n} é {fat}")
 except ValueError:
     print("Erro! Digite um número inteiro.")
+    

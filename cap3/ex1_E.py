@@ -13,3 +13,4 @@ try:
         print(f"O número {n} é primo!")
 except ValueError:
     print("Erro! O valor inserido deve ser um número intero.")
+    
