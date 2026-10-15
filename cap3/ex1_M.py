@@ -10,3 +10,4 @@ for i in range(2, 101):
 
         if menor == 1:
             print(f"({i}, {n})")
+            
